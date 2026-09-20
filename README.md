@@ -1,6 +1,6 @@
 #Digital Thermometer V2 with clock
 
-Power supply 2V -> Boost converter MCP1640 to 3.3V
+Power supply 2V -> Boost converter MCP1640 to 3.3V, 30mA
 MCU: ST F401RCT7
 Sensors: 2x BS18B20, one mounted on the PCB (inside box), second external 
 RTC DS3231 with EEPROM 24C32 
